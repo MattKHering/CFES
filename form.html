@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+	<title>CFES - Join Us</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+	<div id="wrapper">
+		<header>
+			<h1>CFES Application</h1>
+		</header>
+		<nav>
+			<ul>
+				<li><a href="index.html" style="text-decoration: none">Home</a></li>
+				<li><a href="about.html">About Us</a></li>
+				<li><a href="form.html">Join Us</a></li>
+				<li><a href="contact.html">Contact</a></li>
+				<li><a href="calendar.html">Calendar</a></li>
+				<li><a href="special_events.html">Special Events</a></li>
+			</ul>
+		</nav>
+		<main id="form">
+			<h2>Chippewa Falls Esports Application</h2><br>
+			<p>Want to join the team?</p>
+			<p>Required fields are marked with an asterisk *.</p>
+			<form method="post" action="http://www.youmakeithappen.net/instruction/html/contact.php">
+				<label for="name"> *Name:</label><input type="text" name="name" id="name" required=""><br>
+				<label for="email"> *Email:</label><input type="email" name="email" id="email" required=""><br>
+				<label for="message"> *Message:</label><input type="text" name="message" id="message" required=""><br>
+				<label for="phone_number"> *Phone number:</label><input type="text" name="phone_number" id="phone_number" required=""><br>
+				<label for="position"> Choose a Game:</label>
+				<select name="position" id="position">
+					<option value="select">select</option>
+					<option value="RL">Rocket League</option>
+					<option value="OW">Overwatch</option>
+					<option value="SB">Smash Bros.</option>
+					<option value="LOL">League Of Legends</option>
+				</select>
+				<br><br><br>
+				<label for="myExperience"> Experience:</label><textarea id="myExperience" name="myExperience" cols="21" rows="2"></textarea>
+				<input id="marginSubmitButton" type="submit" value="Apply Now">
+			</form>
+		</main>
+		<br>
+		<footer>
+			<small>Copyright &copy; 2021 Chippewa Falls High School<br>
+				<a href="mailto:anderssm@chipfalls.org">Chippewa Falls High School</a>
+			</small>
+		</footer>
+	</div>
+</body>
+</html>
