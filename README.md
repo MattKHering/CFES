@@ -21,7 +21,7 @@ This schema creates tables for storing user data.
   <li>Navigate to the login page and click "Don't have an account?".</li>
   <li>Create an account by filling out the name, email, and password fields, then hit the register button.</li>
   <li>Navigate to the dashboard after seeing the welcome screen.</li>
-  <li>Or leave it empty and use the <p>[HyperSupportDesk]</p>.</li>
+  <li>Or leave it empty and use the .</li><li>[HyperSupportDesk]</li>
   <li>Create a new ticket or view any previous tickets on the dashboard.</li>
 </ol>
 
