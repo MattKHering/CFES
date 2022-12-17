@@ -1,5 +1,5 @@
 # HyperSupportDesk
-This is the repository for [link text itself]. It is a IT support ticketing solution for smaller organizations. Normal  users will able to create a ticket with the title and description to the issue they are having. Supportive users will be able to view the ticket on a dashboard once they have been created where they can open it and see the description. They can then begin solving the issue and set the ticket to "completed" once the ticket has been resolved. Administrative users will be able to manage the roles of accounts and edit tickets once they have been created, they will also be able to create tickets on their own.
+This is the repository for [HyperSupportDesk]. It is a IT support ticketing solution for smaller organizations. Normal  users will able to create a ticket with the title and description to the issue they are having. Supportive users will be able to view the ticket on a dashboard once they have been created where they can open it and see the description. They can then begin solving the issue and set the ticket to "completed" once the ticket has been resolved. Administrative users will be able to manage the roles of accounts and edit tickets once they have been created, they will also be able to create tickets on their own.
 
 ## Installation
 When creating HyperSupportDesk, we created a Node.js application, with the following dependencies:
@@ -34,7 +34,7 @@ Some text to show that the reference links can follow later.
 
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
 [1]: http://slashdot.org
-[link text itself]: https://hypersupportdesk.onrender.com/
+[HyperSupportDesk]: https://hypersupportdesk.onrender.com/
 
 ## Roles
 <ol>
