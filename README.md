@@ -23,6 +23,10 @@ This schema creates tables for storing user data.
   <li>Navigate to the dashboard after seeing the welcome screen.</li>
   <li>Or leave it empty and use the .</li><li>[HyperSupportDesk]</li>
   <li>Create a new ticket or view any previous tickets on the dashboard.</li>
+  <li>[I'm an inline-style link](https://www.google.com)</li>
+  <li>[I'm an inline-style link with title](https://www.google.com "Google's Homepage")</li>
+  <li>[I'm a reference-style link][Arbitrary case-insensitive reference text]</li>
+  <li></li>
 </ol>
 
 ## Roles
