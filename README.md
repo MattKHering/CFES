@@ -24,18 +24,6 @@ This schema creates tables for storing user data.
   <li>Create a new ticket or view any previous tickets on the dashboard.</li>
 </ol>
 
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[HyperSupportDesk]: https://hypersupportdesk.onrender.com/
-
 ## Roles
 <ol>
   <li>Administrators and supporters can both currently view all tickets. They are able to mark tickets as complete but cannot create new tickets. They are also able to delete tickets. They can also access the admin page where they can change a users role.</li>
@@ -46,4 +34,4 @@ Some text to show that the reference links can follow later.
 This project was made as a capstone project to demonstrate course competencies.
 The participants are all IT - Software Development students who got a taste of real world development over the span of this project. At the time of starting this assignment, all of the students only had two weeks of prior experience with Node.js.
 
-[HyperSupportDesk]: https://hypersupportdesk.onrender.com
+[HyperSupportDesk]: https://hypersupportdesk.onrender.com/
