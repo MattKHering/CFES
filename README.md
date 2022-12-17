@@ -16,17 +16,13 @@ To create the database needed for HyperSupportDesk, reference <code>schema.sql</
 This schema creates tables for storing user data.
 
 ## User Instructions
+
 <ol>
-  <li>[Go to HyperSupportDesk](https://hypersupportdesk.onrender.com/ "HyperSupportDesk").</li>
+  <li>Go to https://hypersupportdesk.onrender.com/.</li>
   <li>Navigate to the login page and click "Don't have an account?".</li>
   <li>Create an account by filling out the name, email, and password fields, then hit the register button.</li>
   <li>Navigate to the dashboard after seeing the welcome screen.</li>
-  <li>Or leave it empty and use the .</li><li>[HyperSupportDesk]</li>
   <li>Create a new ticket or view any previous tickets on the dashboard.</li>
-  <li>[I'm an inline-style link](https://www.google.com)</li>
-  <li>[I'm an inline-style link with title](https://www.google.com "Google's Homepage")</li>
-  <li>[I'm a reference-style link][Arbitrary case-insensitive reference text]</li>
-  <li></li>
 </ol>
 
 ## Roles
