@@ -1,5 +1,5 @@
 # HyperSupportDesk
-This is the repository for [HyperSupportDesk]([url](https://hypersupportdesk.onrender.com/)). It is a IT support ticketing solution for smaller organizations. Normal  users will able to create a ticket with the title and description to the issue they are having. Supportive users will be able to view the ticket on a dashboard once they have been created where they can open it and see the description. They can then begin solving the issue and set the ticket to "completed" once the ticket has been resolved. Administrative users will be able to manage the roles of accounts and edit tickets once they have been created, they will also be able to create tickets on their own.
+This is the repository for [link text itself]. It is a IT support ticketing solution for smaller organizations. Normal  users will able to create a ticket with the title and description to the issue they are having. Supportive users will be able to view the ticket on a dashboard once they have been created where they can open it and see the description. They can then begin solving the issue and set the ticket to "completed" once the ticket has been resolved. Administrative users will be able to manage the roles of accounts and edit tickets once they have been created, they will also be able to create tickets on their own.
 
 ## Installation
 When creating HyperSupportDesk, we created a Node.js application, with the following dependencies:
@@ -24,16 +24,6 @@ This schema creates tables for storing user data.
   <li>Create a new ticket or view any previous tickets on the dashboard.</li>
 </ol>
 
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
 Or leave it empty and use the [link text itself].
 
 URLs and URLs in angle brackets will automatically get turned into links. 
@@ -44,8 +34,7 @@ Some text to show that the reference links can follow later.
 
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
 [1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-
+[link text itself]: https://hypersupportdesk.onrender.com/
 
 ## Roles
 <ol>
